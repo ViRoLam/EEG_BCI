@@ -1,2 +1,2 @@
-# EEG_BCI
+# EEG BCI
 EEG classification project. 
