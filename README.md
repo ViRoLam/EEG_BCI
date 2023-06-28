@@ -1,8 +1,9 @@
 # EEG Data Analysis and Classification Project
 
-This repository hosts a project developed as part of my third year Bachelor's degree studies. The focus of the project is on the analysis and classification of EEG data. The main goals were to classify people (through something that can be approximated as being one's EEG signature), and tasks (which engage different parts of the brain and therefore should be classifiable).
+This repository hosts a project developed as part of my third year Bachelor's degree studies. 
+The focus of the project is on the analysis and classification of EEG data. The main goals were to **classify people** (through something that can be approximated as being one's EEG signature), and **tasks** (which engage different parts of the brain and therefore should be classifiable).
 
-We were able to classify people without too much difficulty, but we weren't able to classify different tasks efficiently.
+We were able to classify people without too much difficulty, but we weren't able to classify different tasks as efficiently.
 
 All of the code as well as the documentation is written in a Jupyter Notebook.
 
@@ -35,6 +36,10 @@ The project is divided into the following sections:
 - Video: Visualization of "real time" functional connectivity (averaged across subjects) of two different tasks with the intent of being able to visually differentiate them.
 
 ## Snippets 
+
+
+**Compressed sensing reconstruction:**
+<img src="signal_recon.png" width="500"/>
 
 You will find here bellow some snippets of the results:
 
