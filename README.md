@@ -37,12 +37,24 @@ The project is divided into the following sections:
 
 ## Snippets 
 
-
-**Compressed sensing reconstruction:**
-<img src="signal_recon.png" width="500"/>
-
 You will find here bellow some snippets of the results:
 
+
+**Finding the optimal sample size from EEG data to classify people:**
+<br>
+<img src="QDA_sample_size_opti.png" width="500"/>
+
+***
+
+**Creating an image out of EEG frequency patterns in order to apply image classification:**
+<img src="exemple_image.png" width="500"/>
+
+
+***
+
+**Compressed sensing reconstruction:**
+<br>
+<img src="signal_recon.png" width="500"/>
 
 
 ## Acknowledgments
