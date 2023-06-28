@@ -34,6 +34,12 @@ The project is divided into the following sections:
 - Compressed Sensing of EEG Data: The application of compressed sensing techniques to EEG data.
 - Video: Visualization of "real time" functional connectivity (averaged across subjects) of two different tasks with the intent of being able to visually differentiate them.
 
+## Snippets 
+
+You will find here bellow some snippets of the results:
+
+
+
 ## Acknowledgments
 
 - My profound gratitude goes to James Camilleri, Badreddine Channoufi, and Adam Sekkat who have been an integral part of this project, contributing their valuable insights and expertise.
